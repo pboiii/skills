@@ -1,0 +1,8 @@
+# id|requiredness|command
+# requiredness must be required or optional.
+# Commands run from the repository root when goal folders use docs/goals/plans-to-implement/<slug>/.
+
+lint|required|npm run lint
+typecheck|required|npm run typecheck
+test|required|npm test
+build|optional|npm run build
