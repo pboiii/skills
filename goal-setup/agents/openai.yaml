@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Setup"
+  short_description: "Create verified /goal file packs"
+  default_prompt: "Use $goal-setup to deeply analyze this repo and session, create the goal files, and draft a sub-4000-character /goal prompt."
